@@ -7,6 +7,8 @@ section.places {
 section.places h1 {
     font-size: 30px;
     flex: 0 0 100%;
+    padding-top: 30px;
+    margin-bottom: -5px;
 }
 
 section.places article {
